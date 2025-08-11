@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi, I'm Eylül 👋
 
+**Mobile Developer** specializing in **Android** and **iOS**.  
+I focus on building **clean, consistent UI patterns** and improving **cross-platform user experiences**, especially in **Jetpack Compose** and **SwiftUI**.
+
+---
+
+### 💼 Open-Source Contributions
+- **Artemis (Android & iOS)** — enhancing the mobile user experience with:
+  - 📱 Tablet-aware two-column layouts  
+  - 🎨 Cross-platform visual & navigation consistency  
+  - 🔔 Notification mapping & improved formatting tools  
+  - 📎 File and image sharing
+
+---
+
+### 🎯 Now
+- 🎓 Finishing my thesis: *“Consistent User Experience for Mobile Artemis Apps”*  
+  _(Android & iOS parity, navigation, formatting tools)_
+- 🚀 Shipping UI/UX improvements: tablet layouts, notification localization, file/image sharing
+- 🌍 Open to **full-time mobile roles in Germany** (Munich preferred) from late autumn
+
+---
+
+### 🌱 Elsewhere
+- 🎨 Watercolor & sketching in my free time  
+- 🗣 Learning German (A2.1 → aiming for B1 this year)
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-1575F9?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+---
+
+<!-- Optional GitHub Stats (commented out) -->
 <!--
-**eylulnc/eylulnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eylulnc&show_icons=true&theme=swift" />
+</p>
 -->
+
+## 📌 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
