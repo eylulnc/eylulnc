@@ -1,0 +1,29 @@
+name: Recent activities
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write           # allow committing to README.md
+
+concurrency:
+  group: recent-activity
+  cancel-in-progress: true
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Run the generator (maintained repo + pinned version)
+      - name: Generate recent activity
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
