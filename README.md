@@ -48,11 +48,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/eylulnc/Walk-Munich-Android/pull/2) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-2. 💪 Opened PR [#11253](https://github.com/ls1intum/Artemis/pull/11253) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
-3. 💪 Opened PR [#11251](https://github.com/ls1intum/Artemis/pull/11251) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
-4. 🗣 Commented on [#10739](https://github.com/ls1intum/Artemis/pull/10739#issuecomment-3149653120) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
-5. ❌ Closed PR [#10739](https://github.com/ls1intum/Artemis/pull/10739) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
+1. 🎉 Merged PR [#2](https://github.com/eylulnc/Walk-Munich-Android/pull/2) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+2. 💪 Opened PR [#2](https://github.com/eylulnc/Walk-Munich-Android/pull/2) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+3. 💪 Opened PR [#11253](https://github.com/ls1intum/Artemis/pull/11253) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
+4. 💪 Opened PR [#11251](https://github.com/ls1intum/Artemis/pull/11251) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
+5. 🗣 Commented on [#10739](https://github.com/ls1intum/Artemis/pull/10739#issuecomment-3149653120) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
 <!--END_SECTION:activity-->
 
 ---
