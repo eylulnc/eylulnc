@@ -48,11 +48,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/eylulnc/Walk-Munich-Android/pull/3) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-2. 💪 Opened PR [#3](https://github.com/eylulnc/Walk-Munich-Android/pull/3) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-3. 🎉 Merged PR [#2](https://github.com/eylulnc/Walk-Munich-Android/pull/2) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-4. 💪 Opened PR [#2](https://github.com/eylulnc/Walk-Munich-Android/pull/2) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-5. 💪 Opened PR [#11253](https://github.com/ls1intum/Artemis/pull/11253) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
+1. ❗ Opened issue [#16](https://github.com/eylulnc/Walk-Munich-Android/issues/16) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+2. ❗ Opened issue [#15](https://github.com/eylulnc/Walk-Munich-Android/issues/15) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+3. ❗ Opened issue [#14](https://github.com/eylulnc/Walk-Munich-Android/issues/14) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+4. ❗ Opened issue [#13](https://github.com/eylulnc/Walk-Munich-Android/issues/13) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+5. ❗ Opened issue [#12](https://github.com/eylulnc/Walk-Munich-Android/issues/12) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
 <!--END_SECTION:activity-->
 
 ---
