@@ -13,12 +13,19 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
   - 📎 File and image sharing
 
 ---
+### 💼 Personal Projects
+
+- **Walk Munich (Android, iOS planned)** — a personal app for exploring Munich through curated walking routes:
+  - 🗺️ Route and place-based itineraries  
+  - 📍 Local JSON data structure for offline use  
+  - 🎨 Built with Jetpack Compose and Navigation 3.0  
+  - 🚧 In progress, with an iOS version planned as the next step  
 
 ### 🎯 Now
-- 🎓 Finishing my thesis: *“Consistent User Experience for Mobile Artemis Apps”*  
+- 🎓 Completed: *“Consistent User Experience for Mobile Artemis Apps”*  
   _(Android & iOS parity, navigation, formatting tools)_
-- 🚀 Shipping UI/UX improvements: tablet layouts, notification localization, file/image sharing
-- 🌍 Open to **full-time mobile roles in Germany** (Munich preferred) from late autumn
+  - 🚀 Shipping UI/UX improvements: tablet layouts, notification localization, file/image sharing
+- 🌍 Open to **full-time mobile roles in Germany** (Munich preferred) from april 2026
 
 ---
 
