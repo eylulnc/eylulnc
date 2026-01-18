@@ -25,13 +25,13 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 - 🎓 Completed: *“Consistent User Experience for Mobile Artemis Apps”*  
   _(Android & iOS parity, navigation, formatting tools)_
   - 🚀 Shipping UI/UX improvements: tablet layouts, notification localization, file/image sharing
-- 🌍 Open to **full-time mobile roles in Germany** (Munich preferred) from april 2026
+- 🌍 Open to **full-time mobile roles in Germany** (Munich preferred)
 
 ---
 
 ### 🌱 Elsewhere
 - 🎨 Watercolor & sketching in my free time  
-- 🗣 Learning German (A2.1 → aiming for B1 this year)
+- 🗣 Learning German (A2.2 → aiming for B1 this year)
 
 ---
 
