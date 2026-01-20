@@ -55,11 +55,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#28](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-2. ❌ Assigned PR [#28](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-3. 💪 Opened PR [#28](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-4. ❌ Merged PR [#27](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-5. 🔒 Closed issue [#8](https://github.com/eylulnc/Walk-Munich-Android/issues/8) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+1. ❌ Merged PR [#31](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+2. 💪 Opened PR [#31](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+3. ❌ Assigned PR [#31](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+4. ❌ Merged PR [#30](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+5. 🔒 Closed issue [#11](https://github.com/eylulnc/Walk-Munich-Android/issues/11) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
 <!--END_SECTION:activity-->
 
 ---
