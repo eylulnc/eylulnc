@@ -55,11 +55,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#12](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-2. 💪 Opened PR [#12](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-3. ❌ Merged PR [#1](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
-4. ❌ Labeled PR [#1](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
-5. ❌ Labeled PR [#1](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
+1. ❌ Merged PR [#13](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+2. ❌ Labeled PR [#13](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+3. ❌ Assigned PR [#13](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+4. 💪 Opened PR [#13](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+5. ❌ Merged PR [#12](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 <!--END_SECTION:activity-->
 
 ---
