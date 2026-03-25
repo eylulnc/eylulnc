@@ -15,11 +15,18 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 ---
 ### 💼 Personal Projects
 
-- **Walk Munich (Android, iOS planned)** — a personal app for exploring Munich through curated walking routes:
+- **Walk Munich (Android, iOS ongoing)** — a personal app for exploring Munich through curated walking routes:
   - 🗺️ Route and place-based itineraries  
   - 📍 Local JSON data structure for offline use  
   - 🎨 Built with Jetpack Compose and Navigation 3.0  
   - 🚧 In progress, with an iOS version planned as the next step  
+
+- **Notia (Kotlin Multiplatform) **— a minimalist daily focus & habit tracking app:
+  - ⚙️ Built with Kotlin Multiplatform (KMP) sharing domain & data layers across Android and iOS
+  - 🧠 Implemented streak logic, repository abstractions, and persistence in a shared module
+  - 🧪 Designed deterministic tests and fake providers for reliable business logic validation
+  - 📱 Developed platform-native UIs using Jetpack Compose (Android) and SwiftUI (iOS)
+  - 🔄 Maintained a single source of truth while allowing platform-specific UX flexibility
 
 ### 🎯 Now
 - 🎓 Completed: *“Consistent User Experience for Mobile Artemis Apps”*  
@@ -31,7 +38,7 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ### 🌱 Elsewhere
 - 🎨 Watercolor & sketching in my free time  
-- 🗣 Learning German (A2.2 → aiming for B1 this year)
+- 🗣 Learning German (B1 → aiming for B2 this year)
 
 ---
 
