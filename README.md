@@ -62,11 +62,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
-2. ❌ Assigned PR [#3](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
-3. 💪 Opened PR [#3](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
-4. ❌ Merged PR [#32](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
-5. ❌ Merged PR [#2](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
+1. ❌ Merged PR [#33](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+2. ❌ Assigned PR [#33](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+3. 💪 Opened PR [#33](undefined) in [eylulnc/Walk-Munich-Android](https://github.com/eylulnc/Walk-Munich-Android)
+4. ❌ Merged PR [#4](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
+5. ❌ Assigned PR [#4](undefined) in [eylulnc/Walk-Munich-iOS](https://github.com/eylulnc/Walk-Munich-iOS)
 <!--END_SECTION:activity-->
 
 ---
