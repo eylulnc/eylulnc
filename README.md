@@ -62,11 +62,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-2. ❌ Assigned PR [#21](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-3. 💪 Opened PR [#22](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-4. ❌ Assigned PR [#22](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-5. ❌ Merged PR [#21](undefined) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+1. 💪 Opened PR [#21](https://github.com/eylulnc/Notia/pull/21) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+2. ℹ️ Assigned PR [#21](https://github.com/eylulnc/Notia/pull/21) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+3. 💪 Opened PR [#22](https://github.com/eylulnc/Notia/pull/22) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+4. ℹ️ Assigned PR [#22](https://github.com/eylulnc/Notia/pull/22) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+5. 🎉 Merged PR [#21](https://github.com/eylulnc/Notia/pull/21) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 <!--END_SECTION:activity-->
 
 ---
