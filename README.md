@@ -21,7 +21,7 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
   - 🎨 Built with Jetpack Compose and Navigation 3.0  
   - 🚧 In progress, with an iOS version planned as the next step  
 
-- **Notia (Kotlin Multiplatform) **— a minimalist daily focus & habit tracking app:
+- **Notia (Kotlin Multiplatform)** — a minimalist daily focus & habit tracking app:
   - ⚙️ Built with Kotlin Multiplatform (KMP) sharing domain & data layers across Android and iOS
   - 🧠 Implemented streak logic, repository abstractions, and persistence in a shared module
   - 🧪 Designed deterministic tests and fake providers for reliable business logic validation
