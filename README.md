@@ -64,11 +64,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/eylulnc/Notia/pull/29) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-2. ℹ️ Labeled PR [#29](https://github.com/eylulnc/Notia/pull/29) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-3. ℹ️ Labeled PR [#29](https://github.com/eylulnc/Notia/pull/29) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-4. ℹ️ Labeled PR [#29](https://github.com/eylulnc/Notia/pull/29) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-5. 💪 Opened PR [#29](https://github.com/eylulnc/Notia/pull/29) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+1. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+2. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+3. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+4. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+5. ❗ Opened issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 <!--END_SECTION:activity-->
 
 ---
