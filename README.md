@@ -64,11 +64,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-2. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+1. 🎉 Merged PR [#31](https://github.com/eylulnc/Notia/pull/31) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+2. 💪 Opened PR [#31](https://github.com/eylulnc/Notia/pull/31) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 3. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 4. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
-5. ❗ Opened issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+5. ℹ️ Labeled issue [#30](https://github.com/eylulnc/Notia/issues/30) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
 <!--END_SECTION:activity-->
 
 ---
