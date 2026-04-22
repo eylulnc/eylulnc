@@ -64,11 +64,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/eylulnc/Aura-Android/pull/14) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-2. ℹ️ Labeled PR [#14](https://github.com/eylulnc/Aura-Android/pull/14) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-3. ℹ️ Assigned PR [#14](https://github.com/eylulnc/Aura-Android/pull/14) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-4. 💪 Opened PR [#14](https://github.com/eylulnc/Aura-Android/pull/14) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-5. 🎉 Merged PR [#13](https://github.com/eylulnc/Aura-Android/pull/13) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+1. 💪 Opened PR [#16](https://github.com/eylulnc/Aura-Android/pull/16) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+2. 🎉 Merged PR [#15](https://github.com/eylulnc/Aura-Android/pull/15) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+3. ℹ️ Labeled PR [#15](https://github.com/eylulnc/Aura-Android/pull/15) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+4. ℹ️ Labeled PR [#15](https://github.com/eylulnc/Aura-Android/pull/15) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+5. 💪 Opened PR [#15](https://github.com/eylulnc/Aura-Android/pull/15) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
 <!--END_SECTION:activity-->
 
 ---
