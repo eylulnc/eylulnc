@@ -68,11 +68,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/eylulnc/Aura-Android/pull/19) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-2. ℹ️ Assigned PR [#19](https://github.com/eylulnc/Aura-Android/pull/19) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-3. 💪 Opened PR [#19](https://github.com/eylulnc/Aura-Android/pull/19) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-4. ℹ️ Assigned PR [#18](https://github.com/eylulnc/Aura-Android/pull/18) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
-5. 🎉 Merged PR [#17](https://github.com/eylulnc/Aura-Android/pull/17) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
+1. 🎉 Merged PR [#26](https://github.com/eylulnc/NextRole/pull/26) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+2. ℹ️ Labeled PR [#26](https://github.com/eylulnc/NextRole/pull/26) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+3. 💪 Opened PR [#26](https://github.com/eylulnc/NextRole/pull/26) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+4. ℹ️ Assigned PR [#26](https://github.com/eylulnc/NextRole/pull/26) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+5. 🎉 Merged PR [#25](https://github.com/eylulnc/NextRole/pull/25) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
 <!--END_SECTION:activity-->
 
 ---
