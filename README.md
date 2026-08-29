@@ -68,11 +68,11 @@ I focus on building **clean, consistent UI patterns** and improving **cross-plat
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#38](https://github.com/eylulnc/NextRole/issues/38) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-2. ℹ️ Labeled PR [#32](https://github.com/eylulnc/NextRole/pull/32) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-3. ℹ️ Labeled PR [#32](https://github.com/eylulnc/NextRole/pull/32) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-4. ❗ Opened issue [#41](https://github.com/eylulnc/NextRole/issues/41) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-5. ℹ️ Labeled issue [#42](https://github.com/eylulnc/NextRole/issues/42) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+1. 🎉 Merged PR [#43](https://github.com/eylulnc/NextRole/pull/43) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+2. 🔒 Closed issue [#35](https://github.com/eylulnc/NextRole/issues/35) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+3. ℹ️ Labeled PR [#43](https://github.com/eylulnc/NextRole/pull/43) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+4. 💪 Opened PR [#43](https://github.com/eylulnc/NextRole/pull/43) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+5. ℹ️ Assigned PR [#43](https://github.com/eylulnc/NextRole/pull/43) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
 <!--END_SECTION:activity-->
 
 ---
