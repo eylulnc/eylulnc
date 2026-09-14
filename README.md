@@ -138,11 +138,11 @@ I'm currently looking for **Mobile Developer roles in Germany** (Munich preferre
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#44](https://github.com/eylulnc/NextRole/pull/44) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-2. ℹ️ Labeled PR [#44](https://github.com/eylulnc/NextRole/pull/44) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-3. ℹ️ Labeled PR [#44](https://github.com/eylulnc/NextRole/pull/44) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-4. ℹ️ Labeled PR [#44](https://github.com/eylulnc/NextRole/pull/44) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-5. 💪 Opened PR [#44](https://github.com/eylulnc/NextRole/pull/44) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+1. 🎉 Merged PR [#46](https://github.com/eylulnc/NextRole/pull/46) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+2. ℹ️ Assigned PR [#46](https://github.com/eylulnc/NextRole/pull/46) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+3. 💪 Opened PR [#46](https://github.com/eylulnc/NextRole/pull/46) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+4. 🎉 Merged PR [#45](https://github.com/eylulnc/NextRole/pull/45) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+5. ℹ️ Labeled PR [#45](https://github.com/eylulnc/NextRole/pull/45) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
 <!--END_SECTION:activity-->
 
 ---
