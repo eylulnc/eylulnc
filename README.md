@@ -138,11 +138,11 @@ I'm currently looking for **Mobile Developer roles in Germany** (Munich preferre
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/eylulnc/NextRole/pull/53) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-2. 💪 Opened PR [#53](https://github.com/eylulnc/NextRole/pull/53) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-3. ℹ️ Assigned PR [#53](https://github.com/eylulnc/NextRole/pull/53) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-4. ℹ️ Unlabeled issue [#50](https://github.com/eylulnc/NextRole/issues/50) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-5. ℹ️ Labeled issue [#52](https://github.com/eylulnc/NextRole/issues/52) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+1. 🎉 Merged PR [#32](https://github.com/eylulnc/Notia/pull/32) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+2. ℹ️ Labeled PR [#32](https://github.com/eylulnc/Notia/pull/32) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+3. 💪 Opened PR [#32](https://github.com/eylulnc/Notia/pull/32) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+4. ℹ️ Assigned PR [#32](https://github.com/eylulnc/Notia/pull/32) in [eylulnc/Notia](https://github.com/eylulnc/Notia)
+5. 🎉 Merged PR [#21](https://github.com/eylulnc/Aura-Android/pull/21) in [eylulnc/Aura-Android](https://github.com/eylulnc/Aura-Android)
 <!--END_SECTION:activity-->
 
 ---
