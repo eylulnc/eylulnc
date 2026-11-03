@@ -138,11 +138,11 @@ I'm currently looking for **Mobile Developer roles in Germany** (Munich preferre
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/eylulnc/NextRole/pull/54) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-2. 🔒 Closed issue [#49](https://github.com/eylulnc/NextRole/issues/49) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-3. ℹ️ Assigned PR [#54](https://github.com/eylulnc/NextRole/pull/54) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-4. ℹ️ Labeled PR [#54](https://github.com/eylulnc/NextRole/pull/54) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
-5. ℹ️ Labeled PR [#54](https://github.com/eylulnc/NextRole/pull/54) in [eylulnc/NextRole](https://github.com/eylulnc/NextRole)
+1. 🎉 Merged PR [#14](https://github.com/eylulnc/Aura-iOS/pull/14) in [eylulnc/Aura-iOS](https://github.com/eylulnc/Aura-iOS)
+2. ℹ️ Labeled PR [#14](https://github.com/eylulnc/Aura-iOS/pull/14) in [eylulnc/Aura-iOS](https://github.com/eylulnc/Aura-iOS)
+3. 💪 Opened PR [#14](https://github.com/eylulnc/Aura-iOS/pull/14) in [eylulnc/Aura-iOS](https://github.com/eylulnc/Aura-iOS)
+4. ℹ️ Assigned PR [#14](https://github.com/eylulnc/Aura-iOS/pull/14) in [eylulnc/Aura-iOS](https://github.com/eylulnc/Aura-iOS)
+5. 🎉 Merged PR [#13](https://github.com/eylulnc/Aura-iOS/pull/13) in [eylulnc/Aura-iOS](https://github.com/eylulnc/Aura-iOS)
 <!--END_SECTION:activity-->
 
 ---
